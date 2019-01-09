@@ -1,0 +1,97 @@
+/* Header -------- */
+header{
+    color:#666666;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 64px;
+
+}
+header h1{
+    font-size:46px;
+}
+header p{
+    font-size: 20px;
+}
+
+
+/* rogo -------*/
+#rogo{
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+#mylogo{
+    margin-bottom: 200px;
+    text-align: center;
+        font-size:30px;
+}
+#ehon{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+
+#dezitaru{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+#metal3{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#yukai{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#hogei3{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#janguru{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#hakugei{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#syumoku{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#analog{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+#ookami{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+#juuzin{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#hitusatu{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#houseki{
+    text-align: center;
+    font-size: 20px;
+}
+
+#houseki3{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
